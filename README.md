@@ -60,24 +60,24 @@ The objective of this pilot project is to conduct a thorough examination of cust
 
 ## 📋 Data Summary
 
-![Data Model]()
+![Data Model](https://github.com/Pravesh-Agarwal/Shield-Insurance-BI-Dashboard/blob/main/Assets/Data%20Model.png)
 
 
 ## 🏠 Home Page
 
-![Home Page]()
+![Home Page](https://github.com/Pravesh-Agarwal/Shield-Insurance-BI-Dashboard/blob/main/Assets/Home%20Page.png)
 
 ## 📊 Overview Dashboard
 
-![Overview Dashboard]()
+![Overview Dashboard](https://github.com/Pravesh-Agarwal/Shield-Insurance-BI-Dashboard/blob/main/Assets/Overview%20Dashboard.png)
 
 ## 📈 Sales Mode Dashboard
 
-![Sales Mode Dashboard]()
+![Sales Mode Dashboard](https://github.com/Pravesh-Agarwal/Shield-Insurance-BI-Dashboard/blob/main/Assets/Sales%20Mode%20Dashboard.png)
 
 ## 🔢 Age Group Dashboard
 
-![Age Group Dashboard]()
+![Age Group Dashboard](https://github.com/Pravesh-Agarwal/Shield-Insurance-BI-Dashboard/blob/main/Assets/Age%20Group%20Dashboard.png)
 
 
 ## 💡 Key Insights
