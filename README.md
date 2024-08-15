@@ -102,7 +102,7 @@ The objective of this pilot project is to conduct a thorough examination of cust
 
 ## 📎 Links
 
-### 💼 [Linkedin Post]()
+### 💼 [Linkedin Post](https://www.linkedin.com/posts/pravesh-agarwal27_codebasicsvirtualinternship-internship-powerbi-activity-7229776306974932992-wEpe?utm_source=share&utm_medium=member_desktop)
 
 ### 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDVmNGNhZmUtNGU3Yi00NjU0LWE3MTAtNGM1OTEwZjAwZmRlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
